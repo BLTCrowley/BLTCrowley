@@ -1,7 +1,7 @@
 <!-- ===== HEADER ===== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1b1f23,60:8a3a26,100:D97757&height=230&section=header&text=Crowley&fontSize=78&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Desenvolvedor%20Full-Stack%20%7C%20Engenheiro%20de%20IA&descAlignY=58&descSize=20&descColor=E3A187" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1b1f23,60:8a3a26,100:D97757&height=230&section=header&text=Gabriel%20Zibas&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Desenvolvedor%20Full-Stack%20%7C%20Engenheiro%20de%20IA&descAlignY=58&descSize=20&descColor=E3A187" width="100%" />
 
 <a href="https://github.com/BLTCrowley">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=D97757&center=true&vCenter=true&width=720&height=48&lines=Construo+produtos+com+LLMs+(Claude+%7C+GPT+%7C+Gemini);TypeScript+%7C+Node.js+%7C+Python;Agentes%2C+tool-calling%2C+MCP+e+prompt+engineering;Do+prototipo+ao+deploy" alt="typing" />
@@ -22,7 +22,7 @@
 
 ```typescript
 const crowley: Developer = {
-  nome:     "Crowley",
+  nome:     "Gabriel Zibas",
   cargo:    "Desenvolvedor Full-Stack & Engenheiro de IA",
   empresa:  "BS Manager",
   foco:     "Produtos de IA de ponta a ponta — da ideia ao deploy",
