@@ -52,39 +52,54 @@ const crowley: Developer = {
 <!-- ===== STACK ===== -->
 ## 🛠️ Stack Tecnológica
 
-#### Linguagens
+<table>
+<tr>
+<td valign="top" width="58%">
+
+**Linguagens**
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-#### Frontend
+**Frontend**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-#### Backend & APIs
+**Backend & APIs**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-#### IA & LLMs
+**IA & LLMs**
+
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-1b1f23?style=for-the-badge)
 
-#### Banco de Dados
+**Banco de Dados & Ferramentas**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</td>
+<td valign="middle" width="42%" align="center">
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmM1c3VkbWYzMGQyYmdyNm82dTNnNGVybjJ3MzRtczFtdDJ0OG95YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding" />
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -122,10 +137,33 @@ const crowley: Developer = {
 
 <img src="https://github-profile-trophy.vercel.app/?username=BLTCrowley&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=6" alt="trophies" />
 
+</div>
+
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BLTCrowley&theme=react-dark&bg_color=0d1117&color=E3A187&line=D97757&point=ffffff&area=true&hide_border=true" width="98%" alt="activity graph" />
+<!-- ===== SNAKE ===== -->
+## 🐍 Contribuições
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/BLTCrowley/BLTCrowley/output/github-snake-dark.svg" width="98%" alt="snake" />
+</div>
+
+<br/>
+
+<!-- ===== 3D ===== -->
+## 🗓️ Calendário de Contribuições 3D
+
+<div align="center">
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="98%" alt="3d contrib" />
+</div>
+
+<br/>
+
+<!-- ===== ACTIVITY ===== -->
+## 📈 Gráfico de Atividade
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BLTCrowley&theme=react-dark&bg_color=0d1117&color=E3A187&line=D97757&point=ffffff&area=true&hide_border=true" width="98%" alt="activity graph" />
 </div>
 
 <!-- ===== FOOTER ===== -->
